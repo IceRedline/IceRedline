@@ -1,31 +1,39 @@
 
-# Hi, I'm Artyom! 👋
+# Oh, hey! 
+
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ### Bio
-My name is Artyom and I am engaged in software and iOS-Develompent
+My name is Artyom and I am engaged in software and iOS-Development
+- University: Plekhanov Russian University of Economics, Information Security
 
-### Stack & skills
-- Regularly using `Swift` `UIKit` `MVP` `MVVM` `SwiftUI` `GCD` `URLSession` `Core Data` `SPM` `Charles Proxyman` `English B2+` `XCode` `Git` 
-- Used in the past `CocoaPods`  `PostgreSQL` `Python` 
-- Have touched `Combine` `CoreAnimation` `Unit Testing` `UI Testing` `Snapshot Testing` `Unsplash` `ProgressHUD` `KingFisher` `SwiftKeychainWrapper` `Appmetrica`
+
+### Stack & Skills
+- Core: `Swift` `UIKit` `SwiftUI` `MVVM` `MVP` `GCD` `URLSession` `Core Data`
+- Tools: `Xcode` `Git` `Charles` `Proxyman` `SPM`
+- Testing: `Unit Testing` `UI Testing` `Snapshot Testing`
+- Other: `Kingfisher` `ProgressHUD` `SwiftKeychainWrapper` `AppMetrica` `PostgreSQL` `Python`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=500&color=F75400&background=FF000000&width=435&lines=iOS-Development+in+progress...)](https://git.io/typing-svg)
 
 ### Main Projects
 - [Quizice](https://github.com/IceRedline/Quizice) (in Development) - quiz app where you can train answering questions on different topics. Flexibile and scalabile: it can be easily adapted to any topic, be it school tests, interview preparation simulators or just entertaining quizzes. 
-`Swift` `UIKit` `MVP` `SwiftData` `no MonoBehaviors` `Sirenx` `Addressables`
+`Swift` `UIKit` `MVP` `SwiftData` 
 
 - [AirConverter](https://github.com/IceRedline/AirConverter) (in develompment) — A unified project to calculate anything. Includes: Currency converter, Days counter, Birthday calculator, Regular calculator
 `Swift` `UIKit` `SwiftUI` `MVVM` `MVP`
 
 ### Other Projects
 - [MovieQuiz](https://github.com/IceRedline/MovieQuiz-iOS) (finished) - A quiz about movies' ratings from IMDB.
-`Swift` `UIKit` `MVP` `URLSession` `Unit Testing` `UI Testing`
 
 - [ImageFeed](https://github.com/IceRedline/ImageFeed) (finished) - A pinterest analogue with authentification & endless image feed.
-`Swift` `UIKit` `MVP` `URLSession` `Unsplash` `KingFisher` `ProgressHUD` `Unit Testing` `UI Testing`
 
 - [Tracker](https://github.com/IceRedline/Tracker) (finished) - An app to track your habits and irregular activities.
-`Swift` `UIKit` `MVP` `MVVM` `CocoaPods` `Snapshot Testing` `Appmetrica`
 
 
 ### Reach me
-- [Telegram](https://t.me/iceredline)
+[![Telegram](https://img.shields.io/badge/Artyom_Tabenskiy-blue?logo=telegram)](https://t.me/iceredline) [![Mail](https://img.shields.io/badge/Artyom_Tabenskiy-red?logo=gmail)](artyom2604@yandex.ru)
+
+
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iceredline&show_icons=true&theme=radical) -->

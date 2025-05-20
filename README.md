@@ -32,7 +32,7 @@ My name is Artyom and I am engaged in software and iOS-Development
 
 
 ### Reach me
-[![Telegram](https://img.shields.io/badge/Artyom_Tabenskiy-blue?logo=telegram)](https://t.me/iceredline) [![Mail](https://img.shields.io/badge/Artyom_Tabenskiy-red?logo=gmail)](artyom2604@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Artyom_Tabenskiy-blue?logo=telegram)](https://t.me/iceredline) [![Mail](https://img.shields.io/badge/Artyom_Tabenskiy-red?logo=gmail)](mailto:artyom2604@yandex.ru)
 
 
 

@@ -21,7 +21,7 @@ My name is Artyom and I am engaged in software and iOS-Development
 `Swift` `UIKit` `MVP` `SwiftData` 
 
 - [AirConverter](https://github.com/IceRedline/AirConverter) (in develompment) — A unified project to calculate anything. Includes: Currency converter, Days counter, Birthday calculator, Regular calculator
-`Swift` `UIKit` `SwiftUI` `MVVM` `MVP`
+`Swift` `UIKit` `MVP`
 
 ### Other Projects
 - [MovieQuiz](https://github.com/IceRedline/MovieQuiz-iOS) (finished) - A quiz about movies' ratings from IMDB.

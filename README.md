@@ -9,7 +9,7 @@ My name is Artyom and I am engaged in software and iOS-Development
 
 
 ### Stack & Skills
-- Core: `Swift` `UIKit` `SwiftUI` `MVVM` `MVP` `GCD` `URLSession` `Core Data`
+- Core: `Swift` `UIKit` `SwiftUI` `MV` `MVP` `MVVM` `GCD` `URLSession` `Core Data`
 - Tools: `Xcode` `Git` `Charles` `Proxyman` `SPM`
 - Testing: `Unit Testing` `UI Testing` `Snapshot Testing`
 - Other: `Kingfisher` `ProgressHUD` `SwiftKeychainWrapper` `AppMetrica` `PostgreSQL` `Python`
@@ -17,7 +17,10 @@ My name is Artyom and I am engaged in software and iOS-Development
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=500&color=F75400&background=FF000000&width=435&lines=iOS-Development+in+progress...)](https://git.io/typing-svg)
 
 ### Main Projects
-- [Quizice](https://github.com/IceRedline/Quizice) (in Development) - quiz app where you can train answering questions on different topics. Flexibile and scalabile: it can be easily adapted to any topic, be it school tests, interview preparation simulators or just entertaining quizzes. 
+- [FinancialTamer](https://github.com/IceRedline/FinancialTamer) (in develompment) — An app to track your income and expenses. (Yandex Mobile Dev School 25") 
+`Swift` `SwiftUI` `MV` `JSONSerialization`
+
+- [Quizice](https://github.com/IceRedline/Quizice) (in Development) - Quiz app where you can train answering questions on different topics. Flexibile and scalabile: it can be easily adapted to any topic, be it school tests, interview preparation simulators or just entertaining quizzes. 
 `Swift` `UIKit` `MVP` `SwiftData` 
 
 - [AirConverter](https://github.com/IceRedline/AirConverter) (in develompment) — A unified project to calculate anything. Includes: Currency converter, Days counter, Birthday calculator, Regular calculator

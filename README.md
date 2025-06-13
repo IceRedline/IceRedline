@@ -5,7 +5,10 @@
 
 ### Bio
 My name is Artyom and I am engaged in software and iOS-Development
-- University: Plekhanov Russian University of Economics, Information Security
+
+🎓 University: Plekhanov Russian University of Economics 
+
+(B.Sc. in Information Security, 2023–2027)
 
 
 ### Stack & Skills
@@ -27,11 +30,14 @@ My name is Artyom and I am engaged in software and iOS-Development
 `Swift` `UIKit` `MVP`
 
 ### Other Projects
-- [MovieQuiz](https://github.com/IceRedline/MovieQuiz-iOS) (finished) - A quiz about movies' ratings from IMDB.
-
-- [ImageFeed](https://github.com/IceRedline/ImageFeed) (finished) - A pinterest analogue with authentification & endless image feed.
 
 - [Tracker](https://github.com/IceRedline/Tracker) (finished) - An app to track your habits and irregular activities.
+
+- [ImageFeed](https://github.com/IceRedline/ImageFeed) (finished) - A pinterest analogue with authentification & endless image feed.
+  
+- [FakeNFT](https://github.com/IceRedline/FakeNFT) (in develompment) - A mock NFT store app with fake API data
+
+- [MovieQuiz](https://github.com/IceRedline/MovieQuiz-iOS) (finished) - A quiz about movies' ratings from IMDB.
 
 
 ### Reach me
